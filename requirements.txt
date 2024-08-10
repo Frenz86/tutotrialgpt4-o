@@ -1,4 +1,4 @@
 openai
-dotenv-python
+python-dotenv
 moviepy
 opencv-python
